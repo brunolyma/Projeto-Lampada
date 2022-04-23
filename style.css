@@ -1,0 +1,13 @@
+body {
+    background-color: #fdfdfd;
+}
+header, main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.botao {
+    width: 70px;
+    margin-top: 10px;
+}
